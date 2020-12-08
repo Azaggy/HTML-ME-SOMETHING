@@ -19,6 +19,10 @@ p {
 
   }
   ul {
-      text-align: center;
-      font-style: bold;
+      font-size: 44px;
+      font-style: oblique;
+  }
+  image {
+      height: 50px;
+      width: 45px;
   }
